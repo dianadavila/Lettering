@@ -1,8 +1,9 @@
 /* Styling */
 body {
-    background: #117789;
+    background: white;
 }
-@import url('https://fonts.googleapis.com/css?family=Rammetto+One');
+
+@import url('https://fonts.googleapis.com/css?family=Archivo+Narrow');
 
 /* styles.css */
 h2 {
@@ -11,5 +12,6 @@ h2 {
 
 h2 span:nth-child(odd) {
   color: #a10022;
-  font-family: 'Rammetto One', arial;
+  font-family: 'Archivo Narrow', sans-serif;
+
 }
